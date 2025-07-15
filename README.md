@@ -8,7 +8,7 @@ A Power BI dashboard that analyzes online learning platform data to uncover insi
 ## 👨‍💻 Author:
 **Jayaprakash K**  
 Artificial Intelligence & Data Science  
-Builders Engineering College
+Kangeyam institutions
 
 ---
 
